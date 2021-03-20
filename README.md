@@ -23,7 +23,7 @@ Email: 412929473@qq.com
 ## Research
 Deep Learning, Machine Learning, Reinforcement Learning
 
-## some repository about ML
+## Some Repositories About ML
 - Using numpy to implement [MachineLearningAlgorithm](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm)
 - Computer vision [SaliencyDetection](https://github.com/WhatAboutMyStar/SaliencyDetection)
 - Implement Reinforcement Learning Algorithm and environment [RL_Code](https://github.com/WhatAboutMyStar/RL_Code)
