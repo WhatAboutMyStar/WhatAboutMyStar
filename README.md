@@ -1,4 +1,5 @@
 # Hi! I'm WhatAboutMyStar 👋
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=WhatAboutMyStar&show_icons=true">
 
 <!--
 **WhatAboutMyStar/WhatAboutMyStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +36,3 @@ Deep Learning, Machine Learning, Reinforcement Learning
 - 2017-2021 <br>
   Bachelor of Laws; Central China Normal University (CCNU) <br>
   Bachelor of Engineering; Huazhong University of Science and Technology(HUST) <br>
-
