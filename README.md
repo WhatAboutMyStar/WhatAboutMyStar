@@ -29,7 +29,7 @@ Deep Learning, Machine Learning, Reinforcement Learning
 - Implement Reinforcement Learning Algorithm and environment [RL_Code](https://github.com/WhatAboutMyStar/RL_Code)
 
 ## Work Experience
-2021.1-2021.4 intern algorithmic engineer in [inspirai](http://inspirai.com/)
+2021.1-2021.4 intern algorithm engineer in [inspirai](http://inspirai.com/)
 
 ## Education
 
